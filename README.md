@@ -1,4 +1,4 @@
-#Contents
+ #Contents
 
       250 Exercises in JavaScript Vanilla
 
